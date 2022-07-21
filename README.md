@@ -1,6 +1,10 @@
 # html-css-refrac
 # 01 HTML, CSS, and Git: Code Refractor
 
+## For this challenge, I refactored existing code in order for it to meet a certain standard, specifically making it more accessible. I also improved the CSS by consolidating selectors and properties. And finally, I fixed any links on the webpage that were not functioning.
+
+
+## Installation
 The first thing I did in this challenge was give the site a concise title "Horiseon" by editing line 7 and inserting the name between the title tags.
 
 
@@ -19,4 +23,10 @@ I added "./develop" to reference my css style sheet on line 6, and also added ".
 
 
 I fixed the "Search Engine Optimization" button on the site, so that when it is clicked, it sends the user to that part of the site. I did this by fixing line 29, because it was missing the "id" tag. 
+
+## Credits
+
+I used Stack Overflow to help with html questions. https://stackoverflow.com/
+
+
 
